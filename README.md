@@ -1,10 +1,18 @@
 # Student Performance Analysis
 
-Simple Python project to analyze student marks.
+This is a simple Python project to analyze student marks and identify performance trends.
 
 ## Features
 - Calculate average marks
-- Find top student
+- Identify top-performing student
 
-## Tech
-Python, Pandas
+## Tech Stack
+- Python
+- Pandas
+
+## How to Run
+1. Install pandas
+2. Run: python analysis.py
+
+## Author
+Hemanth Sai
